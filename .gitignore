@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+.openai/
+node_modules/
+__pycache__/
+*.tmp
+dist/vendor/**/*.wasm
+dist/vendor/*.task
